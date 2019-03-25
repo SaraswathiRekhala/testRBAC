@@ -5,8 +5,8 @@
     "time" : "h:mm:ss a"
   },
   "files" : {
-    "angular" : "en",
-    "fullCalendar" : null,
-    "moment" : null
+    "angular" : "af",
+    "fullCalendar" : "af",
+    "moment" : "af"
   }
 }

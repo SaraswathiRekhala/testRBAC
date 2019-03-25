@@ -11,6 +11,14 @@
   "type" : "PAGE",
   "params" : [ ]
 }, {
+  "name" : "Page1",
+  "type" : "PAGE",
+  "params" : [ ]
+}, {
+  "name" : "Page1_Copy",
+  "type" : "PAGE",
+  "params" : [ ]
+}, {
   "name" : "footer",
   "type" : "FOOTER",
   "params" : [ ]
